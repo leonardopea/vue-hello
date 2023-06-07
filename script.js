@@ -5,7 +5,7 @@ createApp({
 
     data(){
         return{
-            message: 'Ecco il mio esercizio'
+            message: '<h1>Ecco il mio esercizio</h1>'
         }
     }
 
